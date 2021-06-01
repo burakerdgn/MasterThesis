@@ -8,9 +8,9 @@
 
 ## Software Tools
 - Ubuntu 16
-- Virtual Machine
-- OpenCV
-- CMake
+- [Virtual Box](https://www.virtualbox.org/)
+- [OpenCV](https://opencv.org/)
+- [CMake](https://cmake.org/)
 
 ## Programming Language
 - C ++
