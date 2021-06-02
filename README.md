@@ -5,6 +5,7 @@
 ## Abstract
 - Obtaining disparity image in order to obtain depth information of the each pixel of the image
 - Changing one of the image channels with disparity image
+- Observing the effect of this method on object tracking algorithms( CSRT , MOSSE etc.)
 
 ## Software Tools
 - Ubuntu 16
